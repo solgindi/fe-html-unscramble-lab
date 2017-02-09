@@ -6,6 +6,17 @@ As you become a great web developer, you will end up writing some *very* complex
 
 ## Instructions
 
-Fork and clone this lab. There are 2 html files: a basic version, and a challenge version. Your goal is to clean up some very messy code, ensuring the indentation looks correct.
+Fork and clone this lab, and then `cd` into it. 
+
+In the folder, you should find '**unscramble-basic.html**'.
+
+Technically, it's valid HTML, but it's nearly impossible to make sense of--what elements are in what??
+
+Your mission is to organize the HTML by properly indenting it so it's structure its clear to read and every child is indented away from its parent.
+
+***ready for a challenge???***
+
+Open the file "unscramble-challenge.html" and see if you can handle a *real* mess--this file goes a little over the top in showing how much a pain poorly formatted code can be.
+You'll see all sorts of unfamiliar elements, but feel free to explore and google new things you haven't seen before!
 
 **Good Luck!**
